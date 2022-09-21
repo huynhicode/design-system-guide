@@ -11,11 +11,11 @@ keywords:
 
 ### What is a design system?
 
-A design system is a set of standards that serves as the single source of truth to guide in the development of products in a brand. It is composed of a collection of reusable components that can be used to build interfaces and interactions.
+A design system is a set of standards that serves as the single source of truth to guide in the development of products within a brand's umbrella. It is composed of a collection of reusable components that can be used to build interfaces and interactions.
 
 ### What makes up a design system?
 
-- Design Language: a set of standards that serves as the single source of truth to guide in the development of products in a brand.
+- Design Language: a set of standards that serves as the single source of truth to guide in the development of products within a brand's umbrella.
 - Component Library: reusable components that can be used to build interfaces and interactions.
 - Style Guide: the design system documentation.
 
@@ -26,14 +26,14 @@ A design system is a set of standards that serves as the single source of truth 
 
 ### What are some benefits of a design system?
 
-- Consistency: the same look and feel across the board as part of a brand identity.
+- Consistency: the same look and feel across the board as part of a brand's identity.
 - Scalability: a streamlined and sustainable workflow.
 - Efficiency: decreases the time it takes to build and ship products.
 
 ### How to start building out a design system?
 
 - Conduct a visual audit: take an inventory of all the components that make up your product(s).
-- Create a visual design language: this is made of four main categories.
+- Create a visual design language: this is made up of four main categories.
   - Color
   - Typography
   - Sizing and spacing
@@ -43,5 +43,5 @@ A design system is a set of standards that serves as the single source of truth 
 
 ### Resources to check out
 
-- [Design Systems with React & Storybook by Emma Bostian](https://static.frontendmasters.com/resources/2020-03-12-design-systems-storybook/design-systems-formatted.pdf)
-- [Invision: A Comprehensive Guide to Design Systems](https://www.invisionapp.com/inside-design/guide-to-design-systems/)
+- ["Design Systems with React & Storybook" by Emma Bostian](https://static.frontendmasters.com/resources/2020-03-12-design-systems-storybook/design-systems-formatted.pdf)
+- [Invision: "A Comprehensive Guide to Design Systems"](https://www.invisionapp.com/inside-design/guide-to-design-systems/)

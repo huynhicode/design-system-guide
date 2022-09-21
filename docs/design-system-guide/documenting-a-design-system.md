@@ -3,7 +3,7 @@ id: documenting-a-design-system
 title: Documenting a design system
 description: Design system documentation
 sidebar_label: Documenting a design system
-sidebar_position: 6
+sidebar_position: 3
 custom_edit_url: https://github.com/huynhicode/design-system-project/documenting-a-design-system.md
 keywords:
   - documenting a design system
@@ -51,6 +51,6 @@ There are many options available for documentating design systems. Here are a fe
 - Free for one project with one editor. Paid plans for other use cases.
 - Check out example documentation sites on their [showcase](https://zeroheight.com/showcase) page.
 
-## Resources to check out
+## Resource to check out
 
-- Adobe XD article ["Documentation—the Key to a Successful Design System"](https://xd.adobe.com/ideas/principles/design-systems/documentation-key-to-successful-design-system/)
+- [Adobe XD: "Documentation—the Key to a Successful Design System"](https://xd.adobe.com/ideas/principles/design-systems/documentation-key-to-successful-design-system/)

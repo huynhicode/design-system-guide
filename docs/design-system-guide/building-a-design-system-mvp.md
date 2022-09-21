@@ -1,9 +1,9 @@
 ---
 id: design-system-mvp
-title: Design System MVP
+title: Building a design system MVP
 description: Design system MVP
 sidebar_label: Building a design system MVP
-sidebar_position: 5
+sidebar_position: 2
 custom_edit_url: https://github.com/huynhicode/design-system-project/design-system-mvp.md
 keywords:
   - design system mvp
@@ -46,6 +46,6 @@ Some open source libraries to explore:
   - [Microsoft's Fluent](https://www.microsoft.com/design/fluent/#/)
   - Open source design systems on [Figma Community](https://www.designsystems.com/open-design-systems/)
 
-## Resources to check out
+## Resource to check out
 
-- [Invision's Guide to: Building an MVP Design System](https://static1.squarespace.com/static/55da5503e4b0dfd79804caf2/t/600ee35d935eb04262be1b67/1611588449848/Design+System+Guide+-+MVP+Design+System.pdf)
+- [Invision's "Guide to: Building an MVP Design System"](https://static1.squarespace.com/static/55da5503e4b0dfd79804caf2/t/600ee35d935eb04262be1b67/1611588449848/Design+System+Guide+-+MVP+Design+System.pdf)
