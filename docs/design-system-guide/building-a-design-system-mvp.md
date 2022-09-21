@@ -31,7 +31,7 @@ Reusable components that are made from foundational building blocks:
 ## What to capture in a design system MVP
 
 - All foundation building blocks
-- Three reusable component (it's recommended to start with buttons)
+- Three reusable components (it's recommended to start with buttons)
 
 ## How to quickly start a design system MVP
 
