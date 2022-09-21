@@ -10,7 +10,9 @@ keywords:
 
 Hi 👋, my name is Steph 👩🏻‍💻.
 
-I am a UX Designer & Engineer with a strong interest in Design Systems. This is a portfolio project to showcase my skillset.
+I am a UX Designer & Engineer who is passionate about design systems, open source projects, and building beautiful & functional products.
+
+This is a portfolio project to showcase my skillset.
 
 ## About the project
 

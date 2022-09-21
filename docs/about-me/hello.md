@@ -14,10 +14,8 @@ import chico from "../../static/img/chico.png"
 
 ## About me
 
-Hello, my name is Steph.
+Hello, my name is Steph. I am a UX Designer & Engineer who is passionate about design systems, open source projects, and building beautiful & functional products.
 
-I am a UX Designer & Engineer with a strong interest in Design Systems and open source projects.
-
-I have a rescue dog named Chico who previously lived in Mexico. He is a two-year-old grey and white terrier mix who is sweet, smart, and very observant. He is a huge advocate of me leaving my desk to take him for long walks and to feed him treats.
+This is Chico, my rescue from Mexico. He is a two-year-old grey and white terrier mix who is sweet, smart, and mischievous. Chico is huge advocate of me leaving my desk to take him for long walks and to feed him treats.
 
 <img src={chico} alt="chico a dog" style={{ width: "300px", height: "400px", borderRadius: "30px", marginTop: "20px" }} />
