@@ -23,7 +23,5 @@ This is a documentation site for building out a design system and touches on the
 
 ## Technologies used to build this project
 
-- [Docusaurus](https://docusaurus.io/)
-- [Netlify](https://www.netlify.com/)
-- [Figma](https://www.figma.com/)
-- [Storybook](https://storybook.js.org/)
+- [Docusaurus](https://docusaurus.io/) to build this site.
+- [Netlify](https://www.netlify.com/) to deploy this site.
