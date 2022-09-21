@@ -122,7 +122,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Design System Project built by Steph Huynh.`,
+        copyright: `© ${new Date().getFullYear()} Design System Guide built by Steph Huynh.`,
       },
       prism: {
         theme: lightCodeTheme,
