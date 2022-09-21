@@ -9,4 +9,39 @@ keywords:
   - building a design system
 ---
 
+### What is a design system?
 
+A design system is a set of standards that serves as the single source of truth to guide in the development of products in a brand. It is composed of a collection of reusable components that can be used to build interfaces and interactions.
+
+### What makes up a design system?
+
+- Design Language: a set of standards that serves as the single source of truth to guide in the development of products in a brand.
+- Component Library: reusable components that can be used to build interfaces and interactions.
+- Style Guide: the design system documentation.
+
+### What are some considerations of a design system?
+
+- Accessibility: able to be used by everyone regardless of circumstance.
+- Flexibility: be able to serve to a variety of use cases.
+
+### What are some benefits of a design system?
+
+- Consistency: the same look and feel across the board as part of a brand identity.
+- Scalability: a streamlined and sustainable workflow.
+- Efficiency: decreases the time it takes to build and ship products.
+
+### How to start building out a design system?
+
+- Conduct a visual audit: take an inventory of all the components that make up your product(s).
+- Create a visual design language: this is made of four main categories.
+  - Color
+  - Typography
+  - Sizing and spacing
+  - Imagery
+- Create a UI/pattern library (e.g. button, form, modal, etc).
+- Start documenting each component: what each component is and how to use each one.
+
+### Resources to check out
+
+- [Design Systems with React & Storybook by Emma Bostian](https://static.frontendmasters.com/resources/2020-03-12-design-systems-storybook/design-systems-formatted.pdf)
+- [Invision: A Comprehensive Guide to Design Systems](https://www.invisionapp.com/inside-design/guide-to-design-systems/)
