@@ -21,7 +21,7 @@ This is a documentation site for building out a design system and touches on the
 - 👀 What does an MVP design system look like?
 - 📖 How best to document a design system
 
-## Technologies used to build this project
+## Technologies used
 
 - [Docusaurus](https://docusaurus.io/) to build this site.
 - [Netlify](https://www.netlify.com/) to deploy this site.
