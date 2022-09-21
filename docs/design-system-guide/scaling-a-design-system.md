@@ -17,6 +17,6 @@ keywords:
 - Designing across platforms: "creating a technology-specific flavor of the design system" (e.g. React to build applications).
 - Design Tokens: updating the visual values of design tokens.
 
-## Resources to check out
+## Resource to check out
 
 - [InVision Podcast Episode 5: "Proven Strategies for Scaling Your Design System"](https://www.invisionapp.com/design-system-manager/expert-advice/scaling-your-design-system)
