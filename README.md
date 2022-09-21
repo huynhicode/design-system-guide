@@ -1,4 +1,4 @@
-# Design System Project
+# Design System Guide
 
 This is a documentation site for building out a design system and touches on the folliowing key points:
 
