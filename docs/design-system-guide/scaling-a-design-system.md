@@ -20,4 +20,3 @@ keywords:
 ## Resources to check out
 
 - [InVision Podcast Episode 5: "Proven Strategies for Scaling Your Design System"](https://www.invisionapp.com/design-system-manager/expert-advice/scaling-your-design-system)
-- ["Atomic Design" by Brad Frost - Chapter 5: "Maintaining Design Systems"](https://atomicdesign.bradfrost.com/chapter-5/)
