@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Design System Project',
-  tagline: 'Design System Project',
+  tagline: '',
   url: 'https://design-system-project.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -60,7 +60,7 @@ const config = {
         title: 'Design System Project',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.png ',
+          src: 'img/logo.svg',
         },
         items: [
           {
@@ -76,7 +76,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://www.linkedin.com/in/huynhicode',
+            href: 'https://www.linkedin.com/in/huynhicode/',
             label: 'LinkedIn',
             position: 'right',
           },
@@ -95,29 +95,34 @@ const config = {
             ],
           },
           {
-            title: 'Community',
+            title: 'Projects',
             items: [
               {
                 label: 'GitHub',
                 href: 'https://github.com/huynhicode',
               },
+            ],
+          },
+          {
+            title: 'Connect',
+            items: [
               {
                 label: 'LinkedIn',
-                href: 'https://www.linkedin.com/in/huynhicode',
+                href: 'https://www.linkedin.com/in/huynhicode/',
               },
             ],
           },
           {
-            title: 'Portfolio',
+            title: 'More',
             items: [
               {
-                label: 'Huynh I Code',
+                label: 'Portfolio',
                 href: 'https://www.huynhicode.dev',
               },
             ],
           },
         ],
-        copyright: `© ${new Date().getFullYear()} Design System Project built by Steph Huynh`,
+        copyright: `Copyright © ${new Date().getFullYear()} Design System Project built by Steph Huynh.`,
       },
       prism: {
         theme: lightCodeTheme,
