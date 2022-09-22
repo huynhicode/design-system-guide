@@ -63,7 +63,7 @@ keywords:
 - Free for one project with one editor. Paid plans for other use cases.
 - Check out example documentation sites on their [showcase](https://zeroheight.com/showcase) page.
 
-## Resource to check out
+## Resources to check out
 
 - [Adobe XD: "Documentation—the Key to a Successful Design System"](https://xd.adobe.com/ideas/principles/design-systems/documentation-key-to-successful-design-system/)
 - [Storybook: "4 Ways to Document Your Design System with Storybook](https://storybook.js.org/blog/4-ways-to-document-your-design-system-with-storybook/)

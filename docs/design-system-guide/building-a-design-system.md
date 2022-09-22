@@ -17,7 +17,7 @@ A design system is a set of standards that serves as the single source of truth 
 
 - Design Language: a set of standards that serves as the single source of truth to guide in the development of products within a brand's umbrella.
 - Component Library: reusable components that can be used to build interfaces and interactions.
-- Style Guide: the design system documentation.
+- Style Guide: the design system documentation - includes context & instructions.
 
 ### What are some considerations of a design system?
 
@@ -45,3 +45,4 @@ A design system is a set of standards that serves as the single source of truth 
 
 - ["Design Systems with React & Storybook" by Emma Bostian](https://static.frontendmasters.com/resources/2020-03-12-design-systems-storybook/design-systems-formatted.pdf)
 - [Invision: "A Comprehensive Guide to Design Systems"](https://www.invisionapp.com/inside-design/guide-to-design-systems/)
+- [UXPin: "The Difference Between Design Systems, Pattern Libraries, Style Guides & Component Libraries"](https://www.uxpin.com/studio/blog/design-systems-vs-pattern-libraries-vs-style-guides-whats-difference/)
