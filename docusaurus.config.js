@@ -37,7 +37,9 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/huynhicode/design-system-project',
+            'https://github.com/huynhicode/design-system-guide',
+            showLastUpdateAuthor: true,
+            showLastUpdateTime: true,
         },
         blog: {
           showReadingTime: true,

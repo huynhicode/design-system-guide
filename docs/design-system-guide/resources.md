@@ -1,7 +1,7 @@
 ---
 id: resources
 title: Resources
-description: Resources
+description: Design system resources
 sidebar_label: Resources
 sidebar_position: 8
 custom_edit_url: https://github.com/huynhicode/design-system-guide/edit/main/docs/design-system-guide/resources.md
