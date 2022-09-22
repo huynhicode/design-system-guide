@@ -9,9 +9,21 @@ keywords:
   - documenting a design system
 ---
 
-## Documentation tools and technologies
+## Documentation requirements
 
-There are many options available for documentating design systems. Here are a few to consider:
+- description: component name, description, and uses.
+- examples: component variants and states - include interactive visuals.
+- design references: visual guidelines, do's and don'ts.
+- code references: component API details.
+
+## Documentation options
+
+- use Storybook: comes with a Docs addon, which auto generates component documentation from written stories.
+- use custom doc site: build tooling and render code based on use case (example Shopify's Polaris).
+- use documentation tools (e.g. Notion, Confluence): embed stories using a story URL.
+- use a design system manager: an all purpose tool like zeroheight, InVision DSM, etc.
+
+## Documentation tools
 
 ### [Confluence](https://www.atlassian.com/software/confluence)
 
@@ -54,3 +66,4 @@ There are many options available for documentating design systems. Here are a fe
 ## Resource to check out
 
 - [Adobe XD: "Documentation—the Key to a Successful Design System"](https://xd.adobe.com/ideas/principles/design-systems/documentation-key-to-successful-design-system/)
+- [Storybook: "4 Ways to Document Your Design System with Storybook](https://storybook.js.org/blog/4-ways-to-document-your-design-system-with-storybook/)
