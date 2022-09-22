@@ -4,7 +4,7 @@ title: Building a design system MVP
 description: Design system MVP
 sidebar_label: Building a design system MVP
 sidebar_position: 2
-custom_edit_url: https://github.com/huynhicode/design-system-project/design-system-mvp.md
+custom_edit_url: https://github.com/huynhicode/design-system-guide/edit/main/docs/design-system-guide/building-a-design-system-mvp.md
 keywords:
   - design system mvp
 ---

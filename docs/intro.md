@@ -3,7 +3,7 @@ id: intro
 title: Intro
 sidebar_label: Intro
 sidebar_position: 1
-custom_edit_url: https://github.com/huynhicode/design-system-project/intro.md
+custom_edit_url: https://github.com/huynhicode/design-system-guide/edit/main/docs/intro.md
 keywords:
   - introduction
 ---

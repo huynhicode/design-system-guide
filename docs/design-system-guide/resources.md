@@ -4,9 +4,9 @@ title: Resources
 description: Resources
 sidebar_label: Resources
 sidebar_position: 8
-custom_edit_url: https://github.com/huynhicode/design-system-project/resources.md
+custom_edit_url: https://github.com/huynhicode/design-system-guide/edit/main/docs/design-system-guide/resources.md
 keywords:
-  - resources
+  - List of resources
 ---
 
 ## Books

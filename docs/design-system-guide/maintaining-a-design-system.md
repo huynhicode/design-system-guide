@@ -4,7 +4,7 @@ title: Maintaining a design system
 description: Design system maintanence
 sidebar_label: Maintaining a design system
 sidebar_position: 5
-custom_edit_url: https://github.com/huynhicode/design-system-project/roadmap-for-design.md
+custom_edit_url: https://github.com/huynhicode/design-system-guide/edit/main/docs/design-system-guide/maintaining-a-design-system.md
 keywords:
   - maintaining a design system
 ---
