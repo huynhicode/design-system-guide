@@ -2,7 +2,7 @@
 id: hello
 title: Hello
 description: My name is Steph
-sidebar_label: Hello
+sidebar_label: 👋 Hello
 sidebar_position: 1
 custom_edit_url: https://github.com/huynhicode/design-system-guide/edit/main/docs//hello.md
 keywords:

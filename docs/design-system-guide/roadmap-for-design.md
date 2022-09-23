@@ -2,7 +2,7 @@
 id: roadmap-for-design
 title: Roadmap for design
 description: Design Roadmap
-sidebar_label: Roadmap for design
+sidebar_label: 🎯 Roadmap for design 💅🏻
 sidebar_position: 6
 custom_edit_url: https://github.com/huynhicode/design-system-guide/edit/main/docs/design-system-guide/roadmap-for-design.md
 keywords:

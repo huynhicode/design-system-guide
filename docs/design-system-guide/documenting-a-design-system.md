@@ -2,7 +2,7 @@
 id: documenting-a-design-system
 title: Documenting a design system
 description: Design system documentation
-sidebar_label: Documenting a design system
+sidebar_label: 📖 Documenting a design system
 sidebar_position: 3
 custom_edit_url: https://github.com/huynhicode/design-system-guide/edit/main/docs/design-system-guide/documenting-a-design-system.md
 keywords:
