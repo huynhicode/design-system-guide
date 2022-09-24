@@ -1,6 +1,6 @@
 ---
 id: roadmap-for-engineering
-title: Roadmap for engineering
+title: 🎯 Roadmap for engineering 💻
 description: Engineering roadmap
 sidebar_label: 🎯 Roadmap for engineering 💻
 sidebar_position: 7

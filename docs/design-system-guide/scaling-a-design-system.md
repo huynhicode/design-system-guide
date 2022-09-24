@@ -1,6 +1,6 @@
 ---
 id: scaling-a-design-system
-title: Scaling a design system
+title: 🏗 Scaling a design system
 description: How to scale a design system
 sidebar_label: 🏗 Scaling a design system
 sidebar_position: 4

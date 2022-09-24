@@ -1,6 +1,6 @@
 ---
 id: design-system-mvp
-title: Building a design system MVP
+title: 💪 Building a design system MVP
 description: Design system MVP
 sidebar_label: 💪 Building a design system MVP
 sidebar_position: 2

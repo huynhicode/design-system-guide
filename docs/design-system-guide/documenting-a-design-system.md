@@ -1,6 +1,6 @@
 ---
 id: documenting-a-design-system
-title: Documenting a design system
+title: 📖 Documenting a design system
 description: Design system documentation
 sidebar_label: 📖 Documenting a design system
 sidebar_position: 3

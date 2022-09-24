@@ -1,6 +1,6 @@
 ---
 id: resources
-title: Resources
+title: 📚 Resources
 description: Design system resources
 sidebar_label: 📚 Resources
 sidebar_position: 8
@@ -11,8 +11,8 @@ keywords:
 
 ## Books
 
-- [Design Systems Repo website: Books](https://designsystemsrepo.com/books/)
-- [Articulating Design Decisions - Tom Greever](https://www.amazon.com/Articulating-Design-Decisions-Communicate-Stakeholders/dp/1491921560)
+- [Design Systems Repo: books list](https://designsystemsrepo.com/books/)
+- [Articulating Design Decisions](https://www.amazon.com/Articulating-Design-Decisions-Communicate-Stakeholders/dp/1491921560)
 
 ## Conferences
 
@@ -24,5 +24,6 @@ keywords:
 
 ## Websites
 
-- [Design Systems, a Figma publication](https://www.designsystems.com/)
-- [Design System Repo - Jad Limcaco](https://designsystemsrepo.com/)
+- [Design System Repo](https://designsystemsrepo.com/)
+- [Design Systems](https://www.designsystems.com/)
+- [Hey Design Systems!](https://heydesign.systems/)

@@ -1,6 +1,6 @@
 ---
 id: building-a-design-system
-title: Building a design system
+title: 👩‍💻 Building a design system
 description: How to build a design system
 sidebar_label: 👩‍💻 Building a design system
 sidebar_position: 1

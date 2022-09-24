@@ -1,6 +1,6 @@
 ---
 id: maintaining-a-design-system
-title: Maintaining a design system
+title: 🙂 Maintaining a design system
 description: Design system maintanence
 sidebar_label: 🙂 Maintaining a design system
 sidebar_position: 5
