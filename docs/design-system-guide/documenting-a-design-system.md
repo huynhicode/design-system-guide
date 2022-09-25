@@ -65,5 +65,5 @@ keywords:
 
 ## Resources to check out
 
-- [Adobe XD: "Documentation—the Key to a Successful Design System"](https://xd.adobe.com/ideas/principles/design-systems/documentation-key-to-successful-design-system/)
-- [Storybook: "4 Ways to Document Your Design System with Storybook](https://storybook.js.org/blog/4-ways-to-document-your-design-system-with-storybook/)
+- [Adobe XD: Documentation—the Key to a Successful Design System](https://xd.adobe.com/ideas/principles/design-systems/documentation-key-to-successful-design-system/)
+- [Storybook: 4 Ways to Document Your Design System with Storybook](https://storybook.js.org/blog/4-ways-to-document-your-design-system-with-storybook/)

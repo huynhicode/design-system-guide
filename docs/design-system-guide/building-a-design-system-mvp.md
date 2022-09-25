@@ -41,11 +41,12 @@ Reusable components that are made from foundational building blocks:
 - Aim for iteration and not perfection.
 
 Some open source libraries to explore:
-  - [Google's Material](https://material.io/design)
-  - [GitHub's Primer](https://primer.style/)
-  - [Microsoft's Fluent](https://www.microsoft.com/design/fluent/#/)
-  - Open source design systems on [Figma Community](https://www.designsystems.com/open-design-systems/)
+
+- [Google's Material](https://material.io/design)
+- [GitHub's Primer](https://primer.style/)
+- [Microsoft's Fluent](https://www.microsoft.com/design/fluent/#/)
+- [Figma Community](https://www.designsystems.com/open-design-systems/)
 
 ## Resource to check out
 
-- [Invision's "Guide to: Building an MVP Design System"](https://static1.squarespace.com/static/55da5503e4b0dfd79804caf2/t/600ee35d935eb04262be1b67/1611588449848/Design+System+Guide+-+MVP+Design+System.pdf)
+- [Invision: Guide to Building an MVP Design System](https://static1.squarespace.com/static/55da5503e4b0dfd79804caf2/t/600ee35d935eb04262be1b67/1611588449848/Design+System+Guide+-+MVP+Design+System.pdf)

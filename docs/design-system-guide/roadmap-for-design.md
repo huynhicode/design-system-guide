@@ -21,4 +21,4 @@ keywords:
 
 ## Resource to check out
 
-- [UXPin blog: "How Can You Create a Design System Roadmap"](https://www.uxpin.com/studio/blog/design-system-rodmap/)
+- [UXPin: How Can You Create a Design System Roadmap](https://www.uxpin.com/studio/blog/design-system-rodmap/)

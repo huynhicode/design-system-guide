@@ -39,6 +39,6 @@ A design system only serves a purpose if it is used. Things to consider when mai
 
 ## Resources to check out
 
-- [Adobe XD: "Managing, Maintaining, and Governing Design Systems for Success – Part 5"](https://xd.adobe.com/ideas/principles/design-systems/managing-maintaining-governing-design-systems/)
-- ["Atomic Design" by Brad Frost - Chapter 5: "Maintaining Design Systems"](https://atomicdesign.bradfrost.com/chapter-5/)
+- [Adobe XD: Managing, Maintaining, and Governing Design Systems for Success – Part 5](https://xd.adobe.com/ideas/principles/design-systems/managing-maintaining-governing-design-systems/)
+- [Atomic Design: Maintaining Design Systems](https://atomicdesign.bradfrost.com/chapter-5/)
 

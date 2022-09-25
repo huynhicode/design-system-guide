@@ -19,4 +19,4 @@ keywords:
 
 ## Resource to check out
 
-- [InVision Podcast Episode 5: "Proven Strategies for Scaling Your Design System"](https://www.invisionapp.com/design-system-manager/expert-advice/scaling-your-design-system)
+- [InVision: Proven Strategies for Scaling Your Design System](https://www.invisionapp.com/design-system-manager/expert-advice/scaling-your-design-system)

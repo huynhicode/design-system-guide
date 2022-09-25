@@ -43,6 +43,6 @@ A design system is a set of standards that serves as the single source of truth 
 
 ### Resources to check out
 
-- ["Design Systems with React & Storybook" by Emma Bostian](https://static.frontendmasters.com/resources/2020-03-12-design-systems-storybook/design-systems-formatted.pdf)
-- [Invision: "A Comprehensive Guide to Design Systems"](https://www.invisionapp.com/inside-design/guide-to-design-systems/)
-- [UXPin: "The Difference Between Design Systems, Pattern Libraries, Style Guides & Component Libraries"](https://www.uxpin.com/studio/blog/design-systems-vs-pattern-libraries-vs-style-guides-whats-difference/)
+- [Emma Bostian: Design Systems with React & Storybook](https://static.frontendmasters.com/resources/2020-03-12-design-systems-storybook/design-systems-formatted.pdf)
+- [Invision: A Comprehensive Guide to Design Systems](https://www.invisionapp.com/inside-design/guide-to-design-systems/)
+- [UXPin: The Difference Between Design Systems, Pattern Libraries, Style Guides & Component Libraries](https://www.uxpin.com/studio/blog/design-systems-vs-pattern-libraries-vs-style-guides-whats-difference/)
