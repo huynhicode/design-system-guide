@@ -16,14 +16,14 @@ I am a UX Designer & Engineer who is passionate about design systems, open sourc
 
 This is a guide for building out a design system and touches on the following key points:
 
-- 👩‍💻 How to build a design system
-- 💪 How to build a design system MVP
-- 📖 How to document a design system
-- 🏗 How to scale a design system
-- 🙂 How to maintain a design system
-- 🎯 Roadmap for design 🎨
-- 🎯 Roadmap for engineering 💻
-- 📚 Resources
+- [👩‍💻 How to build a design system](/docs/design-system-guide/building-a-design-system.md)
+- [💪 How to build a design system MVP](/docs/design-system-guide/building-a-design-system-mvp.md)
+- [📖 How to document a design system](/docs/design-system-guide/documenting-a-design-system.md)
+- [🏗 How to scale a design system](/docs/design-system-guide/scaling-a-design-system.md)
+- [🙂 How to maintain a design system](/docs/design-system-guide/maintaining-a-design-system.md)
+- [🎯 Roadmap for design 🎨](/docs/design-system-guide/roadmap-for-design.md)
+- [🎯 Roadmap for engineering 💻](/docs/design-system-guide/roadmap-for-design.md)
+- [📚 Resources](/docs/design-system-guide/resources.md)
 
 ## Technologies used
 
