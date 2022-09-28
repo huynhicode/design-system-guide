@@ -82,6 +82,11 @@ const config = {
             label: 'LinkedIn',
             position: 'right',
           },
+          {
+            href: 'https://steph-huynh-portfolio.netlify.app/docs/intro',
+            label: 'Portfolio',
+            position: 'right',
+          },
         ],
       },
       footer: {
@@ -119,7 +124,7 @@ const config = {
             items: [
               {
                 label: 'Portfolio',
-                href: 'https://www.huynhicode.dev',
+                href: 'https://steph-huynh-portfolio.netlify.app/docs/intro',
               },
             ],
           },
