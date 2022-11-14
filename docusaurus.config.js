@@ -83,7 +83,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://steph-huynh-portfolio.netlify.app/docs/intro',
+            href: 'https://www.huynhicode.dev',
             label: 'Portfolio',
             position: 'right',
           },
@@ -124,7 +124,7 @@ const config = {
             items: [
               {
                 label: 'Portfolio',
-                href: 'https://steph-huynh-portfolio.netlify.app/docs/intro',
+                href: 'https://www.huynhicode.dev',
               },
             ],
           },
