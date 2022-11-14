@@ -10,7 +10,7 @@ keywords:
 
 Hi 👋, my name is Steph 👩🏻‍💻.
 
-I am a UX Designer & Engineer who is passionate about design systems, open source projects, and building beautiful & functional products.
+I am a UX Engineer who is passionate about design systems, open source projects, and building beautiful & functional products.
 
 ## About this project
 
